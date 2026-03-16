@@ -1,20 +1,20 @@
 # FUTURE_DS_02
 # Customer Churn Analysis 📊
 
-## Overview
+## 📊Overview
 This project analyzes customer churn using a dataset sourced from **Kaggle**. The goal is to identify patterns and factors contributing to customer attrition, helping businesses improve retention strategies. The analysis is visualized through an interactive **Power BI dashboard**.
 
-## Dataset
+## 📂Dataset
 - **Source:** Kaggle (Telco Customer Churn dataset)
 - **Features:** Customer demographics, account information, service usage, payment methods, and churn status
 - **Target Variable:** `Churn` (Yes/No)
 
-## Tools & Technologies
+## 🛠️Tools & Technologies
 - **Power BI**: For building interactive dashboards and visualizations
 - **Kaggle Dataset**: As the primary data source
 - **Data Cleaning & Transformation**: Performed within Power BI
 
-## Dashboard Highlights
+## 📈Dashboard Highlights
 The Power BI dashboard provides insights into:
 - **Churn Distribution**: Percentage of customers who stayed vs. churned
 - **Payment Methods**: Breakdown of churn by payment type
@@ -29,7 +29,7 @@ The Power BI dashboard provides insights into:
   - Average Monthly Charge: 64.76
   - Total Charges: 16.06M
 
-## Insights
+## 🎯Insights
 - Customers using **Fiber Optic** services contribute the highest revenue but also show higher churn rates.
 - **Electronic check** users are more likely to churn compared to other payment methods.
 - **Paperless billing** adoption correlates with churn behavior.
